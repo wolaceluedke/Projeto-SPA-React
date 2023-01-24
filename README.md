@@ -4,3 +4,5 @@ de roteamento/atualização da página.
  Durante o projeto aprendemos sobre o modelo de Atomic Design, que permite que separemos o código em vários pedaços, ocasionando em uma facilitação de manutenção de 
 código e uma maior escabilidade para projetos futuros.
 Lidamos com o method fetch para consumo de api de uma lista de usuários, hooks(useState,useEffect, useNavigate), handlers(onClick,onChange) ,array iterario(sort,map).
+
+Deploy:https://lnkd.in/d2ab9ERp
